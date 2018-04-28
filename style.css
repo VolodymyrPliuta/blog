@@ -80,3 +80,8 @@ hr{
     background: #007bb5;
     color: white;
   }
+  @media screen and (min-width: 500px) {
+    .fa {font-size: 5em;}
+    .social-media-text {font-size: 2em;}
+    .fa-github {padding: 0px; font-size: 8em; margin: 0}
+  }
