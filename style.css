@@ -75,6 +75,8 @@ hr{
   .fa-github {
     background: white;
     color: black;
+    font-size: 8.5em;
+    padding: 0;
   }
   .fa-linkedin {
     background: #007bb5;
@@ -84,7 +86,7 @@ hr{
   @media print, screen and (max-width: 500px) {
     .fa {font-size: 8em;}
     .social-media-text {font-size: 2em;}
-    .mediagit {padding: 0px; font-size: 12em; margin: 0;}
+    .fa-github {padding: 0px; font-size: 12em; margin: 0;}
     .slogan {font-size: 3em;}
     .nav-bar {font-size: 2em;}
    }
