@@ -17,8 +17,27 @@
   background: linear-gradient(-45deg, #35577D, #141E30);
   color: white;
 }
-.summary{
-  font-family:'Special Elite', cursive;
+#___ytsubscribe_0 {
+	  position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%;
+}
+#___ytsubscribe_0 > {
+	  position: absolute; 
+    top: 0; 
+    left: 0; 
+    width: 100%; 
+    height: 100%;
+}
+iframe {
+  position: absolute;
+  top: 0; 
+  left: 0; 
+  width: 100%; 
+  height: 100%;
+	left: 0;
 }
 h1{
   font-size: 7vw;
