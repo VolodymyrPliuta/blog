@@ -40,7 +40,7 @@ iframe {
 	left: 0;
 }
 h1{
-  font-size: 7vw;
+  font-size: 2em;
   font-weight: bold;
 }
 hr{
@@ -52,7 +52,7 @@ hr{
 }
 .fa {
   padding: 20px;
-  font-size: 25em;
+  font-size: 6em;
   width: 41%;
   text-align: center;
   text-decoration: none;
@@ -80,8 +80,11 @@ hr{
     background: #007bb5;
     color: white;
   }
-  @media screen and (min-width: 500px) {
-    .fa {font-size: 5em;}
+
+  @media print, screen and (max-width: 500px) {
+    .fa {font-size: 8em;}
     .social-media-text {font-size: 2em;}
-    .fa-github {padding: 0px; font-size: 8em; margin: 0}
-  }
+    .mediagit {padding: 0px; font-size: 12em; margin: 0;}
+    .slogan {font-size: 3em;}
+    .nav-bar {font-size: 2em;}
+   }
