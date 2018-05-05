@@ -109,7 +109,7 @@ hr{
     color: white;
   }
 
-  @media print, screen and (max-width: 500px) {
+  @media print, screen and (max-width: 800px) {
     .fa {font-size: 8em;}
     .social-media-text {font-size: 2em;}
     .fa-github {padding: 0px; font-size: 12em; margin: 0;}
