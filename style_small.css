@@ -2,12 +2,17 @@
 [class*="entypo-"]:before {
   font-family: 'entypo', sans-serif;
 }
+
 .slogan{
   font-size: 7em;
 }
-.nav-bar{
-  font-size: 5em;
-}
+
+header {font-size: 2em;}
+.fa {font-size: 8em;}
+.social-media-text {font-size: 2em;}
+.fa-github {padding: 0px; font-size: 12em; margin: 0;}
+.slogan {font-size: 3em;}
+
 .blog{
       /* Old browsers */
   background: #141E30;
@@ -17,6 +22,7 @@
   background: linear-gradient(-45deg, #35577D, #141E30);
   color: white;
 }
+
 #___ytsubscribe_0 {
 	  position: absolute; 
     top: 0; 
@@ -24,6 +30,7 @@
     width: 100%; 
     height: 100%;
 }
+
 #___ytsubscribe_0 > {
 	  position: absolute; 
     top: 0; 
@@ -31,6 +38,7 @@
     width: 100%; 
     height: 100%;
 }
+
 iframe {
   position: absolute;
   top: 0; 
@@ -39,11 +47,13 @@ iframe {
   height: 100%;
 	left: 0;
 }
-h1{
+
+h1 {
   font-size: 2em;
   font-weight: bold;
 }
-hr{
+
+hr {
     border-bottom: 17px solid #000;
 }
 
@@ -55,6 +65,7 @@ hr{
 .destinations-slogan{
 	margin-top: 1em;
 }
+
 .featured-image-block {
   margin-bottom: 20px;
 }
@@ -71,11 +82,14 @@ hr{
 .featured-image-block a:hover p {
   color: #1779ba;
 }
+
 /*Social media section*/
-.social_header{
+
+.social_header {
   font-size: 5em;
   font-family:'Boogaloo', cursive;
 }
+
 .fa {
   padding: 20px;
   font-size: 6em;
@@ -94,25 +108,20 @@ hr{
     background: #3B5998;
     color: white;
   }
+
   .fa-youtube {
     background: #bb0000;
     color: white;
   }
+
   .fa-github {
     background: white;
     color: black;
     font-size: 8.5em;
     padding: 0;
   }
+
   .fa-linkedin {
     background: #007bb5;
     color: white;
   }
-
-  @media print, screen and (max-width: 800px) {
-    .fa {font-size: 8em;}
-    .social-media-text {font-size: 2em;}
-    .fa-github {padding: 0px; font-size: 12em; margin: 0;}
-    .slogan {font-size: 3em;}
-    .nav-bar {font-size: 2em;}
-   }
