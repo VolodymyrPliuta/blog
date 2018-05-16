@@ -1,3 +1,13 @@
+.social_header {
+  font-size: 5em;
+  font-family:'Boogaloo', cursive;
+}
+
+.social-media-text {
+  font-size: 2em;
+  font-weight: bold;
+}
+
 .rounded-social-buttons {
   text-align: center;
 }
