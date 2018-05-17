@@ -1,3 +1,19 @@
+.name {
+    font-family: 'Faster One', cursive;
+}
+
+.slogan {
+  font-family: 'Kavivanar', cursive;
+}
+
+.sense {
+  font-family: 'Courgette', cursive;
+}
+
+.summary {
+  font-family: 'Courgette', cursive;
+}
+
 .social_header {
   font-size: 5em;
   font-family:'Boogaloo', cursive;

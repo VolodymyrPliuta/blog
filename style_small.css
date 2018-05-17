@@ -1,17 +1,36 @@
+header {
+  font-size: 2em;
+}
+
+.name {
+  font-family: 'Faster One', cursive;
+}
+
 .slogan {
-  font-size: 7em;
+  font-family: 'Kavivanar', cursive;
 }
 
-.social-button {
-  color: #fff;
+.sense {
+   font-family: 'Courgette', cursive;
 }
 
-header {font-size: 2em;}
-.fa {font-size: 8em;}
-.fa-github {padding: 0px; font-size: 12em; margin: 0;}
-.slogan {font-size: 3em;}
+.summary {
+  font-family: 'Courgette', cursive;
+}
 
-.blog{
+.fa {
+  font-size: 8em;
+}
+
+.fa-github {
+  padding: 0px; font-size: 12em; margin: 0;
+}
+
+.slogan {
+  font-size: 1.1em;
+}
+
+.blog {
       /* Old browsers */
   background: #141E30;
   /* Chrome 10-25, Safari 5.1-6 */
@@ -22,32 +41,32 @@ header {font-size: 2em;}
 }
 
 #___ytsubscribe_0 {
-	  position: absolute; 
-    top: 0; 
-    left: 0; 
-    width: 100%; 
+	  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
     height: 100%;
 }
 
 #___ytsubscribe_0 > {
-	  position: absolute; 
-    top: 0; 
-    left: 0; 
-    width: 100%; 
+	  position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
     height: 100%;
 }
 
 iframe {
   position: absolute;
-  top: 0; 
-  left: 0; 
-  width: 100%; 
+  top: 0;
+  left: 0;
+  width: 100%;
   height: 100%;
 	left: 0;
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1em;
   font-weight: bold;
 }
 
@@ -62,6 +81,9 @@ hr {
 
 .destinations-slogan {
 	margin-top: 1em;
+  font-style: italic;
+  font-weight: 800;
+  color: #7d97ad;
 }
 
 .featured-image-block {
@@ -84,8 +106,12 @@ hr {
 /*Social media section*/
 
 .social_header {
-  font-size: 5em;
-  font-family:'Boogaloo', cursive;
+  font-size: 3em;
+  font-family: 'Boogaloo', cursive;
+}
+
+.social-button {
+  color: #fff;
 }
 
 .social-media-text {
