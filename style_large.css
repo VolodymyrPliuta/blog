@@ -1,3 +1,7 @@
+body {
+  max-width: 95%;
+}
+
 .name {
     font-family: 'Faster One', cursive;
 }
