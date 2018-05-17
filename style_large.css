@@ -2,6 +2,10 @@ body {
   max-width: 95%;
 }
 
+header {
+  font-size: 3em;
+}
+
 .name {
     font-family: 'Faster One', cursive;
 }
