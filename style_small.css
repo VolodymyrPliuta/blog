@@ -1,5 +1,9 @@
-.slogan{
+.slogan {
   font-size: 7em;
+}
+
+.social-button {
+  color: #fff;
 }
 
 header {font-size: 2em;}
@@ -48,7 +52,7 @@ h1 {
 }
 
 hr {
-    border-bottom: 17px solid #000;
+  border-bottom: 17px solid #000;
 }
 
 .featured-image-block-grid-header {

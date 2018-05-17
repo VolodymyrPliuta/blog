@@ -3,6 +3,10 @@
   font-family:'Boogaloo', cursive;
 }
 
+.social-button {
+  color:#fff;
+}
+
 .social-media-text {
   font-size: 2em;
   font-weight: bold;
